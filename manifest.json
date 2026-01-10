@@ -1,0 +1,1696 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Marko - Digital Marketing Agency Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form",
+            "screenshot": "screenshots\/contact-form.jpg",
+            "source": "templates\/contact-form.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter MetForm",
+            "screenshot": "screenshots\/newsletter-metform.jpg",
+            "source": "templates\/newsletter-metform.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/newsletter-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Error Page",
+            "screenshot": "screenshots\/404-error-page.jpg",
+            "source": "templates\/404-error-page.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/404-error-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Partnership",
+            "screenshot": "screenshots\/partnership.jpg",
+            "source": "templates\/partnership.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/partnership\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Case Studies",
+            "screenshot": "screenshots\/case-studies.jpg",
+            "source": "templates\/case-studies.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/case-studies\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services Details",
+            "screenshot": "screenshots\/services-details.jpg",
+            "source": "templates\/services-details.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/services-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/pai.nomadenstudio.com\/marko\/template-kit\/homepage\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.28.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.4.9",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.6.12",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegtheme"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.9.8",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Gp-1.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Gp-1.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-form.json",
+                    "name": "Contact Form"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/newsletter-metform.json",
+                    "name": "Newsletter MetForm"
+                },
+                {
+                    "source": "templates\/404-error-page.json",
+                    "name": "404 Error Page"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 9118,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "regular-square-grids-4AL3FJ8.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/regular-square-grids-4AL3FJ8-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 53086,
+            "dimensions": [
+                2250,
+                2250
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-4AL3FJ8"
+        },
+        {
+            "filename": "humility-in-the-face-of-praise-5M6A7Q9.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/humility-in-the-face-of-praise-5M6A7Q9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 157908,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-5M6A7Q9"
+        },
+        {
+            "filename": "asian-buinsesswoman-hoding-a-file-folder-and-a-cof-SU69HLN.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/asian-buinsesswoman-hoding-a-file-folder-and-a-cof-SU69HLN.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 190145,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-SU69HLN"
+        },
+        {
+            "filename": "young-african-american-businessman-holding-digital-FYREY7J.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/young-african-american-businessman-holding-digital-FYREY7J.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 157531,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-FYREY7J"
+        },
+        {
+            "filename": "selective-focus-of-cheerful-businesswoman-standing-3P9HZZT.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/selective-focus-of-cheerful-businesswoman-standing-3P9HZZT.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 180841,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-3P9HZZT"
+        },
+        {
+            "filename": "assembling-the-dream-team-L2V5JFB.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/assembling-the-dream-team-L2V5JFB.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 157860,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-L2V5JFB"
+        },
+        {
+            "filename": "businesswoman-standing-in-front-of-her-employees-p-3MSGCXE.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/businesswoman-standing-in-front-of-her-employees-p-3MSGCXE.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 203128,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-3MSGCXE"
+        },
+        {
+            "filename": "Client-1.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Client-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 14429,
+            "dimensions": [
+                512,
+                112
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Client-3.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Client-3.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 21203,
+            "dimensions": [
+                512,
+                112
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Client-5.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Client-5.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 13276,
+            "dimensions": [
+                512,
+                112
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Client-4.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Client-4.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 13835,
+            "dimensions": [
+                512,
+                112
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Client-7.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Client-7.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 12367,
+            "dimensions": [
+                512,
+                112
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Client-6.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Client-6.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 14918,
+            "dimensions": [
+                512,
+                112
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Client-8.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Client-8.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 15032,
+            "dimensions": [
+                512,
+                112
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Client-2.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Client-2.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 13000,
+            "dimensions": [
+                512,
+                112
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "Icon-2.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Icon-2.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 25559,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-F4LJ4W8"
+        },
+        {
+            "filename": "icon-1.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/icon-1.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 34945,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-F4LJ4W8"
+        },
+        {
+            "filename": "Icon-3.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Icon-3.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 20436,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-F4LJ4W8"
+        },
+        {
+            "filename": "collaborative-process-of-multicultural-skilled-peo-5EHBQRG.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/collaborative-process-of-multicultural-skilled-peo-5EHBQRG-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 168993,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-5EHBQRG"
+        },
+        {
+            "filename": "digital-marketing-icons-N952ZWA.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/digital-marketing-icons-N952ZWA.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 28330,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-N952ZWA"
+        },
+        {
+            "filename": "Icon-11.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Icon-11.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 34169,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-N952ZWA"
+        },
+        {
+            "filename": "Icon-10.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Icon-10.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 22644,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-N952ZWA"
+        },
+        {
+            "filename": "Icon-12.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Icon-12.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 30604,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-N952ZWA"
+        },
+        {
+            "filename": "Marko-Logo.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Marko-Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 6780,
+            "dimensions": [
+                511,
+                111
+            ],
+            "image_source": "self_created",
+            "image_urls": ""
+        },
+        {
+            "filename": "collaborative-process-of-multicultural-skilled-peo-AN9FZBQ.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/collaborative-process-of-multicultural-skilled-peo-AN9FZBQ-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 153276,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-AN9FZBQ"
+        },
+        {
+            "filename": "young-people-working-in-the-grunge-office-V55NNM4.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/young-people-working-in-the-grunge-office-V55NNM4-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 112008,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-V55NNM4"
+        },
+        {
+            "filename": "Photo-3.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Photo-3-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 113181,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JJYFLK3"
+        },
+        {
+            "filename": "Photo-4.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Photo-4-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 99108,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JJYFLK3"
+        },
+        {
+            "filename": "Photo-5.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Photo-5-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 132918,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JJYFLK3"
+        },
+        {
+            "filename": "Photo-6.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Photo-6-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 149646,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JJYFLK3"
+        },
+        {
+            "filename": "Photo-13.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Photo-13-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 83847,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JJYFLK3"
+        },
+        {
+            "filename": "Photo-8.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Photo-8-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 170591,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JJYFLK3"
+        },
+        {
+            "filename": "Photo-11.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Photo-11-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 134654,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JJYFLK3"
+        },
+        {
+            "filename": "Photo-12.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Photo-12-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/partnership.json",
+                    "name": "Partnership"
+                },
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 97813,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JJYFLK3"
+        },
+        {
+            "filename": "collaborative-process-of-multicultural-skilled-peo-ALTECKG.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/collaborative-process-of-multicultural-skilled-peo-ALTECKG-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 126656,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-ALTECKG"
+        },
+        {
+            "filename": "collaborative-process-of-multicultural-skilled-peo-LELW4NP.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/collaborative-process-of-multicultural-skilled-peo-LELW4NP-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 134417,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-LELW4NP"
+        },
+        {
+            "filename": "collaborative-process-of-multicultural-skilled-peo-LY58K9U.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/collaborative-process-of-multicultural-skilled-peo-LY58K9U-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 210704,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-LY58K9U"
+        },
+        {
+            "filename": "collaborative-process-of-multicultural-skilled-peo-YK9CA3B.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/collaborative-process-of-multicultural-skilled-peo-YK9CA3B-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/case-studies.json",
+                    "name": "Case Studies"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 125041,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YK9CA3B"
+        },
+        {
+            "filename": "young-business-team-working-EH8KQ2R.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/young-business-team-working-EH8KQ2R-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                }
+            ],
+            "filesize": 143419,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-EH8KQ2R"
+        },
+        {
+            "filename": "business-team-working-in-a-start-up-office-8ENVVX5.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/business-team-working-in-a-start-up-office-8ENVVX5-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services-details.json",
+                    "name": "Services Details"
+                }
+            ],
+            "filesize": 123862,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-8ENVVX5"
+        },
+        {
+            "filename": "Icon-7.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Icon-7.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 17297,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-F4LJ4W8"
+        },
+        {
+            "filename": "digital-marketing-icons-F4LJ4W8.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/digital-marketing-icons-F4LJ4W8.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 34480,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-F4LJ4W8"
+        },
+        {
+            "filename": "Icon-8.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Icon-8.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 21431,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-F4LJ4W8"
+        },
+        {
+            "filename": "Icon-5.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Icon-5.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 27552,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-F4LJ4W8"
+        },
+        {
+            "filename": "Icon-6.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Icon-6.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 14456,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-F4LJ4W8"
+        },
+        {
+            "filename": "Icon-4.png",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Icon-4.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 19254,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-F4LJ4W8"
+        },
+        {
+            "filename": "working-job-career-casual-showing-SJZWF3N.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/working-job-career-casual-showing-SJZWF3N-800x576.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 123605,
+            "dimensions": [
+                1390,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-SJZWF3N"
+        },
+        {
+            "filename": "composite-collage-of-people-expressing-positive-em-JJYFLK3.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/composite-collage-of-people-expressing-positive-em-JJYFLK3-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 103366,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JJYFLK3"
+        },
+        {
+            "filename": "Photo-1.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Photo-1-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 133622,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JJYFLK3"
+        },
+        {
+            "filename": "Photo-2.jpg",
+            "thumbnail_url": "https:\/\/pai.nomadenstudio.com\/marko\/wp-content\/uploads\/sites\/10\/2025\/03\/Photo-2-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 95455,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-JJYFLK3"
+        }
+    ]
+}
